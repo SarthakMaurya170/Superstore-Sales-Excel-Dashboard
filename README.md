@@ -1,3 +1,4 @@
+<img width="1041" height="772" alt="Superstore_Sales_Dashboard" src="https://github.com/user-attachments/assets/41647a40-11af-48c5-8428-aff8ecf21037" />
 #  Superstore Sales Performance Dashboard
 
 ## Project Overview
